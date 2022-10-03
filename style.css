@@ -1,0 +1,42 @@
+#ban{width:800px;
+height: 200px;}
+
+#chichiint{width: 200px;
+height: 100px;}
+
+#chichicour{width: 200px;
+    height: 100px;}
+
+#chichimoche{width: 200px;
+    height: 100px;}
+
+  body{background-image:radial-gradient(at top center, #CCDAE0,  #EDF2F4 ) ;}
+  
+  h1{color: #EF233C;
+font-weight: bold;
+font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+font-size: 60px;}
+
+h3{font-size: 30px;
+color: #2B2D42;
+font-weight: bold;
+text-decoration: underline dotted;
+}
+
+header{text-align: center;}
+
+#art1, #art2, #art3{border: solid 1px black;
+}
+
+li{list-style: none;}
+
+img{border: solid 2px #8D99AE;
+    margin: auto;
+    display: flex;}
+
+    a:link{color: #D90429;}
+    a:visited{color: grey;}
+    a:hover{color:  #2B2D42;}
+footer{text-align: right;}
+em{font-style: normal;
+color: red;}
