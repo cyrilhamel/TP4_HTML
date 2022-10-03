@@ -1,5 +1,10 @@
 #ban{width:800px;
-height: 200px;}
+height: 200px;
+margin: auto;
+display: flex;}
+#imgban{width:800px;
+    height: 200px;
+}
 
 #chichiint{width: 200px;
 height: 100px;}
